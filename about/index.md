@@ -1,10 +1,6 @@
 ---
 layout: page
-title: About
+title: Hakkında
 ---
-
-Hey there! This page is included as an example. Feel free to customize it for
-your own use.
-
-Follow [instructions](<http://www.texts.io/support/0017/>) to publish your blog
-on GitHub Pages.
+Nevzat Çağlayan:
+https://www.linkedin.com/in/nevzat-%C3%A7a%C4%9Flayan-a277399a/
