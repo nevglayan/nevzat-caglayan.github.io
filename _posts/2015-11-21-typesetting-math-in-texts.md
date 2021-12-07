@@ -1,5 +1,5 @@
 ---
-title: Typesetting Math in Texts DENEME
+title: Typesetting Math in Texts DENE
 ---
 
 Basic math
